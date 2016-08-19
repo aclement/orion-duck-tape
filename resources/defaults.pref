@@ -17,5 +17,11 @@
 			"showUserSettings":false,
 			"showGitSettings":false
 		}
-	}
+	},
+        "/editor/settings":{
+                "editorSettings":{
+                        "autoSave":false,
+                        "autoSaveTimeout":911
+                }
+        }
 }
